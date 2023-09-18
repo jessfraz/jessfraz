@@ -201,7 +201,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="95.99666666666666 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="96.1 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -229,10 +229,10 @@
                                     <span class="prefix">Master</span>
                                     contributor
                                     <div class="value-wrapper">
-                                        <div class="value">1929</div>
+                                        <div class="value">1930</div>
                                     </div>
                                 </div>
-                                <div class="text">Opened 1929 pull requests</div>
+                                <div class="text">Opened 1930 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -268,7 +268,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 2.11k out of 46.1m repositories</span>
+                                    <span class="gh">ranked 2.11k out of 43.1m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">13268</div>
                                     </div>

@@ -25,7 +25,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1208.07 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1207.9666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -64,10 +64,10 @@
                                     influencer
                                     <span class="gh">ranked 162 out of 124m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">12691</div>
+                                        <div class="value">12690</div>
                                     </div>
                                 </div>
-                                <div class="text">Followed by 12691 users</div>
+                                <div class="text">Followed by 12690 users</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -268,7 +268,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 2.16k out of 54.4m repositories</span>
+                                    <span class="gh">ranked 2.16k out of 49.7m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">13307</div>
                                     </div>

@@ -25,7 +25,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1213.4433333333334 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1213.65 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -62,12 +62,12 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     influencer
-                                    <span class="gh">ranked 164 out of 125m users</span>
+                                    <span class="gh">ranked 164 out of 124m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">12743</div>
+                                        <div class="value">12745</div>
                                     </div>
                                 </div>
-                                <div class="text">Followed by 12743 users</div>
+                                <div class="text">Followed by 12745 users</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -227,7 +227,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 50.6k out of 125m users</span>
+                                    <span class="gh">ranked 50.6k out of 124m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">195</div>
                                     </div>
@@ -245,7 +245,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="34.42033333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="34.43066666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -268,12 +268,12 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 2.20k out of 43.3m repositories</span>
+                                    <span class="gh">ranked 2.20k out of 45.7m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">13331</div>
+                                        <div class="value">13332</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 13331 stars</div>
+                                <div class="text">Maintaining a repository with 13332 stars</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
